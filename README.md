@@ -120,15 +120,15 @@ files as per the instructions provided.
 
 
 
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/96fc2f3d-190b-4d99-a22e-e013bb6f9939" width="250px">
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/3182f14e-9278-49c2-b95d-6b71c6e25925" width="250px">
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/e2adb176-8b19-4a6a-a360-1badacf451ee" width="250px">
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/1ad26b6d-a58d-45f1-952a-11f22fa00df7" width="250px">
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/fe0d6bad-4c88-42c2-8fbf-f33f0f7d2806" width="250px">
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/c175f2bd-16b0-4f9b-a297-2f35ee2ec166" width="250px">
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/35d7bfe4-e56c-474c-8a5d-79263e32c437" width="250px">
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/9b6ce917-413f-4a97-8eb3-a7f59dd9362c" width="250px">
-<img=src"https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/995397a4-5b75-47ee-84a9-6450fc21e6bf" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/96fc2f3d-190b-4d99-a22e-e013bb6f9939" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/3182f14e-9278-49c2-b95d-6b71c6e25925" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/e2adb176-8b19-4a6a-a360-1badacf451ee" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/1ad26b6d-a58d-45f1-952a-11f22fa00df7" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/fe0d6bad-4c88-42c2-8fbf-f33f0f7d2806" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/c175f2bd-16b0-4f9b-a297-2f35ee2ec166" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/35d7bfe4-e56c-474c-8a5d-79263e32c437" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/9b6ce917-413f-4a97-8eb3-a7f59dd9362c" width="250px">
+<img src="https://github.com/Vaibhav-Bhalala/PR_Animator_AF/assets/122871366/995397a4-5b75-47ee-84a9-6450fc21e6bf" width="250px">
 
 
 
