@@ -19,7 +19,7 @@ class _intro_pageState extends State<intro_page> {
           PageViewModel(
             title: "Galaxy Planets (Animator) in App",
             body:
-            "A galaxy is a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity. We live on a planet called Earth that is part of our solar system. But where is our solar system? It's a small part of the Milky Way Galaxy",
+                "A galaxy is a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity. We live on a planet called Earth that is part of our solar system. But where is our solar system? It's a small part of the Milky Way Galaxy",
             image: Center(
               child: Container(
                 height: double.infinity,
@@ -27,7 +27,7 @@ class _intro_pageState extends State<intro_page> {
                 decoration: BoxDecoration(
                     image: DecorationImage(
                         image: NetworkImage(
-                            "https://media.istockphoto.com/id/1295851454/photo/earth-and-solar-system-planets.jpg?s=612x612&w=0&k=20&c=OKx3C55qBrlC7LISNSnUngKyaNrzLOOE2btTcITVaLs= "),
+                            "https://img.freepik.com/free-photo/glowing-sky-sphere-orbits-starry-galaxy-generated-by-ai_188544-15599.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1704067200&semt=ais"),
                         fit: BoxFit.cover)),
               ),
             ),
@@ -35,7 +35,7 @@ class _intro_pageState extends State<intro_page> {
           PageViewModel(
             title: " The Random Quotes in App",
             body:
-            "A galaxy is a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity. We live on a planet called Earth that is part of our solar system. But where is our solar system? It's a small part of the Milky Way Galaxy",
+                "A galaxy is a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity. We live on a planet called Earth that is part of our solar system. But where is our solar system? It's a small part of the Milky Way Galaxy",
             image: Center(
               child: Container(
                 height: double.infinity,
